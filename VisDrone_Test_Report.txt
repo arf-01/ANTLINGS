@@ -1,0 +1,17 @@
+--- Detailed Test Metrics for Human & Car ---
+
+Class: HUMAN
+- Precision: 0.5105
+- Recall:    0.3036
+- mAP50:     0.3691
+- mAP50-95:  0.1104
+
+Class: CAR
+- Precision: 0.7039
+- Recall:    0.7486
+- mAP50:     0.3691
+- mAP50-95:  0.4608
+
+--- Inference Performance ---
+- Total latency per image: 22.29 ms
+- Frames Per Second (FPS): 44.86
